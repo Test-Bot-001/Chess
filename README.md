@@ -1,3 +1,5 @@
+Made with Gemini3Pro for testing
+
 # Demo Chess
 
 A premium, dark-themed chess web application where you play as White against an intelligent AI opponent.
